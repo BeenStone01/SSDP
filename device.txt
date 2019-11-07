@@ -1,0 +1,14 @@
+
+=================device 1=================
+
+ÌìÒíÍø¹Ø
+192.168.1.1:52869
+urn:schemas-upnp-org:device:MediaServer:1
+uuid:10809696-105a-3721-e8b8-8474609231c8
+
+=================device 2=================
+
+TPAD: beenstone@msn.cn:
+192.168.1.3:2869
+urn:schemas-upnp-org:device:MediaServer:1
+uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379

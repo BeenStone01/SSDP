@@ -1,0 +1,4143 @@
+M-SEARCH * HTTP/1.1
+Host: 239.255.255.250:1900
+ST: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man: "ssdp:discover"
+MX: 3
+
+M-SEARCH * HTTP/1.1
+Host: 239.255.255.250:1900
+ST: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man: "ssdp:discover"
+MX: 3
+
+M-SEARCH * HTTP/1.1
+Host: 239.255.255.250:1900
+ST: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man: "ssdp:discover"
+MX: 3
+
+M-SEARCH * HTTP/1.1
+Host: 239.255.255.250:1900
+ST: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man: "ssdp:discover"
+MX: 3
+
+M-SEARCH * HTTP/1.1
+Host: 239.255.255.250:1900
+ST: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man: "ssdp:discover"
+MX: 3
+
+M-SEARCH * HTTP/1.1
+Host: 239.255.255.250:1900
+ST: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man: "ssdp:discover"
+MX: 3
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:F7CA5454-3F48-4390-8009-483942ea4c15
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:c8dfdf35-c63c-4a35-bbcc-9454b8a1e6a2
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:bd8e4673-b531-8284-ffff-ffffc7831a22
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:aace4932-6ebe-4bac-825b-beb9175c9bca
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:7d0562af-58cb-4ce6-a44b-fc97c762e423
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:340286e1fa820000_MR
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:2bd15cc5-d4d7-4095-9c21-2140af681d65
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:28776953-65cd-4e43-86ad-edbce8136d09
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:10809696-105a-3721-e8b8-8474609231c8
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:c8dfdf35-c63c-4a35-bbcc-9454b8a1e6a2
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:7d0562af-58cb-4ce6-a44b-fc97c762e423
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:340286e1fa820000_MR
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:28776953-65cd-4e43-86ad-edbce8136d09
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:28776953-65cd-4e43-86ad-edbce8136d09
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:28776953-65cd-4e43-86ad-edbce8136d09
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+M-SEARCH * HTTP/1.1
+Host: 239.255.255.250:1900
+ST: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man: "ssdp:discover"
+MX: 3
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:F7CA5454-3F48-4390-8009-483942ea4c15
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:c8dfdf35-c63c-4a35-bbcc-9454b8a1e6a2
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:bd8e4673-b531-8284-ffff-ffffc7831a22
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:aace4932-6ebe-4bac-825b-beb9175c9bca
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:7d0562af-58cb-4ce6-a44b-fc97c762e423
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:10809696-105a-3721-e8b8-8474609231c8
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:c8dfdf35-c63c-4a35-bbcc-9454b8a1e6a2
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:bd8e4673-b531-8284-ffff-ffffc7831a22
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:aace4932-6ebe-4bac-825b-beb9175c9bca
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1860
+LOCATION: http://192.168.1.1:52869/description.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.18
+X-User-Agent: redsonic
+USN: uuid:10809696-105a-3721-e8b8-8474609231c8::upnp:rootdevice
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1860
+LOCATION: http://192.168.1.1:52869/description.xml
+NT: uuid:10809696-105a-3721-e8b8-8474609231c8
+NTS: ssdp:alive
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.18
+X-User-Agent: redsonic
+USN: uuid:10809696-105a-3721-e8b8-8474609231c8
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1860
+LOCATION: http://192.168.1.1:52869/description.xml
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.18
+X-User-Agent: redsonic
+USN: uuid:10809696-105a-3721-e8b8-8474609231c8::urn:schemas-upnp-org:device:MediaServer:1
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1860
+LOCATION: http://192.168.1.1:52869/description.xml
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.18
+X-User-Agent: redsonic
+USN: uuid:10809696-105a-3721-e8b8-8474609231c8::urn:schemas-upnp-org:service:ConnectionManager:1
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1860
+LOCATION: http://192.168.1.1:52869/description.xml
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.18
+X-User-Agent: redsonic
+USN: uuid:10809696-105a-3721-e8b8-8474609231c8::urn:schemas-upnp-org:service:ContentDirectory:1
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1860
+LOCATION: http://192.168.1.1:52869/description.xml
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.18
+X-User-Agent: redsonic
+USN: uuid:10809696-105a-3721-e8b8-8474609231c8::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=600
+LOCATION: http://192.168.3.1:1900/igd.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Wireless N Router MW305R, UPnP/1.0
+USN: uuid:upnp-InternetGatewayDevice-f4ee1449d416::upnp:rootdevice
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=600
+LOCATION: http://192.168.3.1:1900/igd.xml
+NT: uuid:upnp-InternetGatewayDevice-f4ee1449d416
+NTS: ssdp:alive
+SERVER: Wireless N Router MW305R, UPnP/1.0
+USN: uuid:upnp-InternetGatewayDevice-f4ee1449d416
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:F7CA5454-3F48-4390-8009-483942ea4c15
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:bd8e4673-b531-8284-ffff-ffffc7831a22
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:aace4932-6ebe-4bac-825b-beb9175c9bca
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:7d0562af-58cb-4ce6-a44b-fc97c762e423
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:340286e1fa820000_MR
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:2bd15cc5-d4d7-4095-9c21-2140af681d65
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:28776953-65cd-4e43-86ad-edbce8136d09
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:10809696-105a-3721-e8b8-8474609231c8
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:F7CA5454-3F48-4390-8009-483942ea4c15
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:c8dfdf35-c63c-4a35-bbcc-9454b8a1e6a2
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:aace4932-6ebe-4bac-825b-beb9175c9bca
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:7d0562af-58cb-4ce6-a44b-fc97c762e423
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:340286e1fa820000_MR
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:2bd15cc5-d4d7-4095-9c21-2140af681d65
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:28776953-65cd-4e43-86ad-edbce8136d09
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:10809696-105a-3721-e8b8-8474609231c8
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:aace4932-6ebe-4bac-825b-beb9175c9bca
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:2bd15cc5-d4d7-4095-9c21-2140af681d65
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:10809696-105a-3721-e8b8-8474609231c8
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:bd8e4673-b531-8284-ffff-ffffc7831a22
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:7d0562af-58cb-4ce6-a44b-fc97c762e423
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:2bd15cc5-d4d7-4095-9c21-2140af681d65
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:10809696-105a-3721-e8b8-8474609231c8
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:F7CA5454-3F48-4390-8009-483942ea4c15
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:c8dfdf35-c63c-4a35-bbcc-9454b8a1e6a2
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:aace4932-6ebe-4bac-825b-beb9175c9bca
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:7d0562af-58cb-4ce6-a44b-fc97c762e423
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:10809696-105a-3721-e8b8-8474609231c8
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:F7CA5454-3F48-4390-8009-483942ea4c15
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:c8dfdf35-c63c-4a35-bbcc-9454b8a1e6a2
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:bd8e4673-b531-8284-ffff-ffffc7831a22
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:aace4932-6ebe-4bac-825b-beb9175c9bca
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:340286e1fa820000_MR
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:2bd15cc5-d4d7-4095-9c21-2140af681d65
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:28776953-65cd-4e43-86ad-edbce8136d09
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:10809696-105a-3721-e8b8-8474609231c8
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1860
+LOCATION: http://192.168.1.1:52869/description.xml
+NT: uuid:10809696-105a-3721-e8b8-8474609231c8
+NTS: ssdp:alive
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.18
+X-User-Agent: redsonic
+USN: uuid:10809696-105a-3721-e8b8-8474609231c8
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1860
+LOCATION: http://192.168.1.1:52869/description.xml
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.18
+X-User-Agent: redsonic
+USN: uuid:10809696-105a-3721-e8b8-8474609231c8::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.66:2869/upnphost/udhisapi.dll?content=uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+USN:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:514ca2fd5db2f50ed65232cef72e81ae
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=600
+LOCATION: http://192.168.3.1:1900/igd.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Wireless N Router MW305R, UPnP/1.0
+USN: uuid:upnp-InternetGatewayDevice-f4ee1449d416::upnp:rootdevice
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=600
+LOCATION: http://192.168.3.1:1900/igd.xml
+NT: uuid:upnp-InternetGatewayDevice-f4ee1449d416
+NTS: ssdp:alive
+SERVER: Wireless N Router MW305R, UPnP/1.0
+USN: uuid:upnp-InternetGatewayDevice-f4ee1449d416
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=600
+LOCATION: http://192.168.3.1:1900/igd.xml
+NT: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+NTS: ssdp:alive
+SERVER: Wireless N Router MW305R, UPnP/1.0
+USN: uuid:upnp-InternetGatewayDevice-f4ee1449d416::urn:schemas-upnp-org:device:InternetGatewayDevice:1
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=600
+LOCATION: http://192.168.3.1:1900/igd.xml
+NT: urn:schemas-upnp-org:service:Layer3Forwarding:1
+NTS: ssdp:alive
+SERVER: Wireless N Router MW305R, UPnP/1.0
+USN: uuid:upnp-InternetGatewayDevice-f4ee1449d416::urn:schemas-upnp-org:device:InternetGatewayDevice:1
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=600
+LOCATION: http://192.168.3.1:1900/igd.xml
+NT: uuid:upnp-WANDevice-f4ee1449d416
+NTS: ssdp:alive
+SERVER: Wireless N Router MW305R, UPnP/1.0
+USN: uuid:upnp-WANDevice-f4ee1449d416
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=600
+LOCATION: http://192.168.3.1:1900/igd.xml
+NT: urn:schemas-upnp-org:device:WANDevice:1
+NTS: ssdp:alive
+SERVER: Wireless N Router MW305R, UPnP/1.0
+USN: uuid:upnp-WANDevice-f4ee1449d416::urn:schemas-upnp-org:device:WANDevice:1
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=600
+LOCATION: http://192.168.3.1:1900/igd.xml
+NT: urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+NTS: ssdp:alive
+SERVER: Wireless N Router MW305R, UPnP/1.0
+USN: uuid:upnp-WANDevice-f4ee1449d416::urn:schemas-upnp-org:device:WANDevice:1
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=600
+LOCATION: http://192.168.3.1:1900/igd.xml
+NT: urn:schemas-upnp-org:device:WANConnectionDevice:1
+NTS: ssdp:alive
+SERVER: Wireless N Router MW305R, UPnP/1.0
+USN: uuid:upnp-WANConnectionDevice-f4ee1449d416::urn:schemas-upnp-org:device:WANConnectionDevice:1
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:28776953-65cd-4e43-86ad-edbce8136d09
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:28776953-65cd-4e43-86ad-edbce8136d09
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.4:2869/upnphost/udhisapi.dll?content=uuid:28776953-65cd-4e43-86ad-edbce8136d09
+USN: uuid:28776953-65cd-4e43-86ad-edbce8136d09::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 5d62557bcddafed276010ec928611c80
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:F7CA5454-3F48-4390-8009-483942ea4c15
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:c8dfdf35-c63c-4a35-bbcc-9454b8a1e6a2
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:bd8e4673-b531-8284-ffff-ffffc7831a22
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:aace4932-6ebe-4bac-825b-beb9175c9bca
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:7d0562af-58cb-4ce6-a44b-fc97c762e423
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:340286e1fa820000_MR
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:2bd15cc5-d4d7-4095-9c21-2140af681d65
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:28776953-65cd-4e43-86ad-edbce8136d09
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:10809696-105a-3721-e8b8-8474609231c8
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:F7CA5454-3F48-4390-8009-483942ea4c15
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:c8dfdf35-c63c-4a35-bbcc-9454b8a1e6a2
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:bd8e4673-b531-8284-ffff-ffffc7831a22
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:aace4932-6ebe-4bac-825b-beb9175c9bca
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:28776953-65cd-4e43-86ad-edbce8136d09
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:10809696-105a-3721-e8b8-8474609231c8
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host: 239.255.255.250:1900
+ST: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man: "ssdp:discover"
+MX: 3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host: 239.255.255.250:1900
+ST: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man: "ssdp:discover"
+MX: 3
+
+M-SEARCH * HTTP/1.1
+Host: 239.255.255.250:1900
+ST: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man: "ssdp:discover"
+MX: 3
+
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1860
+LOCATION: http://192.168.1.1:52869/description.xml
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+SERVER: Linux, UPnP/1.0, Portable SDK for UPnP devices/1.6.18
+X-User-Agent: redsonic
+USN: uuid:10809696-105a-3721-e8b8-8474609231c8::urn:schemas-upnp-org:service:ConnectionManager:1
+
+M-SEARCH * HTTP/1.1
+Host: 239.255.255.250:1900
+ST: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man: "ssdp:discover"
+MX: 3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:c8dfdf35-c63c-4a35-bbcc-9454b8a1e6a2
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:bd8e4673-b531-8284-ffff-ffffc7831a22
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:aace4932-6ebe-4bac-825b-beb9175c9bca
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:2bd15cc5-d4d7-4095-9c21-2140af681d65
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:7d0562af-58cb-4ce6-a44b-fc97c762e423
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:2bd15cc5-d4d7-4095-9c21-2140af681d65
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::upnp:rootdevice
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+Location: http://192.168.1.88:2869/upnphost/udhisapi.dll?content=uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+USN: uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control: max-age=900
+Server: Microsoft-Windows/10.0 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 3c943369dbe3707ae9cc504ee549938c
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/78.0.3904.97 Windows
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:F7CA5454-3F48-4390-8009-483942ea4c15
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:c8dfdf35-c63c-4a35-bbcc-9454b8a1e6a2
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:bd8e4673-b531-8284-ffff-ffffc7831a22
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:aace4932-6ebe-4bac-825b-beb9175c9bca
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:7d0562af-58cb-4ce6-a44b-fc97c762e423
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:340286e1fa820000_MR
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:2bd15cc5-d4d7-4095-9c21-2140af681d65
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:28776953-65cd-4e43-86ad-edbce8136d09
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:10809696-105a-3721-e8b8-8474609231c8
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ConnectionManager:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ConnectionManager:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:upnp:rootdevice
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:8abbed25-33a1-4180-973d-ff6288f4ee8f
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:upnp:rootdevice
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::upnp:rootdevice
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:3aa356ac-ab11-477c-b1b6-246dafad4e43
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:37b5a55b-6e3a-4212-9074-a656197ce682
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:F7CA5454-3F48-4390-8009-483942ea4c15
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:d8560539-1ea6-4511-bc5c-6f93f9115023
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:c8dfdf35-c63c-4a35-bbcc-9454b8a1e6a2
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:bd8e4673-b531-8284-ffff-ffffc7831a22
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:aace4932-6ebe-4bac-825b-beb9175c9bca
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:7d0562af-58cb-4ce6-a44b-fc97c762e423
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:340286e1fa820000_MR
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:2bd15cc5-d4d7-4095-9c21-2140af681d65
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:28776953-65cd-4e43-86ad-edbce8136d09
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:10809696-105a-3721-e8b8-8474609231c8
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:uuid:034e69ed-aac4-4e5e-9543-15df139b7cdb
+Man:"ssdp:discover"
+MX:3
+
+M-SEARCH * HTTP/1.1
+Host:239.255.255.250:1900
+ST:urn:schemas-upnp-org:device:InternetGatewayDevice:1
+Man:"ssdp:discover"
+MX:3
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:device:MediaServer:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:device:MediaServer:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
+NOTIFY * HTTP/1.1
+Host:239.255.255.250:1900
+NT:urn:schemas-upnp-org:service:ContentDirectory:1
+NTS:ssdp:alive
+Location:http://192.168.1.3:2869/upnphost/udhisapi.dll?content=uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379
+USN:uuid:3a7d726f-27fe-41d4-9c21-798a2e78d379::urn:schemas-upnp-org:service:ContentDirectory:1
+Cache-Control:max-age=900
+Server:Microsoft-Windows/6.3 UPnP/1.0 UPnP-Device-Host/1.0
+OPT:"http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS:7aeefa4b6dc8d7aa155be23073ce0820
+
